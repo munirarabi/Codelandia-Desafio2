@@ -1,0 +1,19 @@
+:root {
+  --bgSite: #f6f6f6;
+  --bgCard: #ebe9ea;
+  --bgBlack: #181818;
+  --white: #fff;
+  --text: #474747;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: 0;
+}
+
+body {
+  font-family: "Montserrat", Arial, Helvetica, sans-serif;
+  background-color: var(--bgSite);
+}
